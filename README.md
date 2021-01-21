@@ -1,5 +1,6 @@
 ### Hey, I am Jovan 👋
 
+- Beginner Developer
 - 📚 Currently Learning HTML, CSS & JS
 
 **Languages and Tools**
