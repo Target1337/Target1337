@@ -1,6 +1,5 @@
 ### Hey, I am Jovan 👋
 
-- I am from Montenegro
 - 📚 Currently Learning HTML, CSS & JS
 
 **Languages and Tools**
