@@ -1,4 +1,4 @@
-### Hey, I am Jovan 👋
+### Hey 👋
 
 - Beginner Developer
 - 📚 Currently Learning HTML, CSS & JS
